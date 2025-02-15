@@ -9,6 +9,7 @@ This project retrieves real-time GPS coordinates using the Tiny GPS++ library an
 
 # Hardware Requirements
 1. Arduino Nano
+
 ![Arduino Nano](https://github.com/user-attachments/assets/05706d9d-4c34-40e5-a674-b5b7e9575926)
 
 ![Pinout](https://github.com/user-attachments/assets/f50c1286-a733-46aa-aef7-419529048561)
@@ -27,10 +28,15 @@ This project retrieves real-time GPS coordinates using the Tiny GPS++ library an
 # Connections
 
 GPS----Arduino
+
 TX----4
+
 RX----3
+
 VCC----5V
+
 GND----GND
+
 
 1. Upload the code to your Arduino board
 2. Open the serial Monitor (Baud Rate: 9600)
@@ -39,5 +45,7 @@ GND----GND
 # References
 
 [1] https://forum.arduino.cc/t/arduino-nano-and-neo-6m-gps-module/1177344
+
 [2] https://store.arduino.cc/products/arduino-nano
+
 [3] https://docs.cirkitdesigner.com/project/published/baf3e8fc-35c1-4cae-9ffb-1ca50cec7e2e/arduino-nano-gps-tracker
