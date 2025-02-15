@@ -14,10 +14,13 @@ This project retrieves real-time GPS coordinates using the Tiny GPS++ library an
 
 ![Pinout](https://github.com/user-attachments/assets/f50c1286-a733-46aa-aef7-419529048561)
 
-3. GPS Module (eg. Neo 6M)
+2. GPS Module (eg. Neo 6M)
+
 ![GPS Module](https://github.com/user-attachments/assets/7040d74c-e987-4c3b-901b-4e668c05d1ae)
 
+
 3. Jumper wires for connections
+
 ![Cicuit Connections](https://github.com/user-attachments/assets/05c1c904-a4d1-426a-b45f-8b91eed372a3)
 
 
